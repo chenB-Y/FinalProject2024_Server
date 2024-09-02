@@ -1,0 +1,15 @@
+.cache
+.dotnet
+.local
+.npm 
+.ssh
+.vscode-server
+snap
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.ssh
+.sudo_as_admin_successful
+.wget-hsts
+examples.desktop
